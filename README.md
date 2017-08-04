@@ -1,6 +1,7 @@
 ## Killing Daemon
 
 - https://stackoverflow.com/questions/38291567/killing-gracefully-a-net-core-daemon-running-on-linux
+- https://github.com/dotnet/corefx/issues/10012
 
 ## Test
 
