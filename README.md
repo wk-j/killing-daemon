@@ -2,12 +2,23 @@
 
 - https://stackoverflow.com/questions/38291567/killing-gracefully-a-net-core-daemon-running-on-linux
 
-1. dotnet KillingDaemon.dll
-2. kill <PID>
+## Test
 
-    ### ??
+1. Start 
 
-    ```
-    Hello World from F#!
-    fish: Job 2, 'dotnet KillingDaemon.dll' terminated by signal SIGTERM (Polite quit request)
-    ```
+```
+dotnet KillingDaemon.dll
+```
+
+2. Kill process
+
+```
+kill <PID>
+```
+
+3. Output ??
+
+```
+Hello World from F#!
+fish: Job 2, 'dotnet KillingDaemon.dll' terminated by signal SIGTERM (Polite quit request)
+```
